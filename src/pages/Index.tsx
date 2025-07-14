@@ -24,6 +24,13 @@ const Index = () => {
           </div>
           
           <div className="bg-white rounded-2xl shadow-xl p-8 border border-violet-100 animate-scale-in hover:shadow-2xl transition-shadow duration-300">
+            <div className="mb-6">
+              <img 
+                src="/img/658ae1fd-0495-4834-8550-5a6877173dba.jpg" 
+                alt="Современное рабочее место разработчика" 
+                className="w-full h-48 object-cover rounded-lg"
+              />
+            </div>
             <div className="space-y-6">
               <div className="flex items-center gap-3 hover:bg-violet-50 p-3 rounded-lg transition-colors duration-200">
                 <Icon name="Clock" className="text-violet-600" size={24} />
@@ -49,11 +56,20 @@ const Index = () => {
       {/* About Section */}
       <section className="bg-white py-20">
         <div className="container mx-auto px-4">
-          <div className="max-w-4xl mx-auto text-center space-y-6">
-            <h2 className="text-4xl font-bold text-gray-900">О компании</h2>
-            <p className="text-lg text-gray-600 leading-relaxed">
-              Мы — команда разработчиков автоматизаторов и маркетологов. За плечами более 20 успешно внедренных чат-ботов в разных сферах: от онлайн-школ до розничной торговли. Делаем проекты под ключ — от идеи до запуска. Не используем шаблоны, только работающие решения под ваш бизнес.
-            </p>
+          <div className="grid lg:grid-cols-2 gap-12 items-center max-w-6xl mx-auto">
+            <div className="space-y-6">
+              <h2 className="text-4xl font-bold text-gray-900">О компании</h2>
+              <p className="text-lg text-gray-600 leading-relaxed">
+                Мы — команда разработчиков автоматизаторов и маркетологов. За плечами более 20 успешно внедренных чат-ботов в разных сферах: от онлайн-школ до розничной торговли. Делаем проекты под ключ — от идеи до запуска. Не используем шаблоны, только работающие решения под ваш бизнес.
+              </p>
+            </div>
+            <div>
+              <img 
+                src="/img/12b5cc06-95a6-4b6d-a7df-e353bf4261b1.jpg" 
+                alt="Команда разработчиков за работой" 
+                className="w-full h-80 object-cover rounded-2xl shadow-lg"
+              />
+            </div>
           </div>
         </div>
       </section>
@@ -194,6 +210,22 @@ const Index = () => {
           <h2 className="text-4xl font-bold text-center mb-16 text-gray-900">
             Как мы делаем ботов
           </h2>
+          
+          <div className="grid lg:grid-cols-2 gap-12 items-center max-w-6xl mx-auto mb-16">
+            <div>
+              <img 
+                src="/img/73b16dd7-a863-4711-9413-04e843a693ae.jpg" 
+                alt="Интерфейс чат-бота" 
+                className="w-full h-80 object-cover rounded-2xl shadow-lg"
+              />
+            </div>
+            <div className="space-y-6">
+              <h3 className="text-3xl font-bold text-gray-900">Современные технологии</h3>
+              <p className="text-lg text-gray-600 leading-relaxed">
+                Используем передовые решения для создания интеллектуальных чат-ботов с интуитивным интерфейсом и продвинутой логикой обработки запросов.
+              </p>
+            </div>
+          </div>
           
           <div className="max-w-4xl mx-auto space-y-12">
             <div className="flex items-start gap-6">
