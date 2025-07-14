@@ -211,21 +211,7 @@ const Index = () => {
             Как мы делаем ботов
           </h2>
           
-          <div className="grid lg:grid-cols-2 gap-12 items-center max-w-6xl mx-auto mb-16">
-            <div>
-              <img 
-                src="/img/8ed759e2-3083-4eef-8bb1-9af01e2c5ae4.jpg" 
-                alt="Робот с телефоном для чата" 
-                className="w-full h-60 sm:h-72 md:h-80 object-contain rounded-2xl shadow-lg bg-gradient-to-br from-violet-50 to-blue-50 p-6"
-              />
-            </div>
-            <div className="space-y-6">
-              <h3 className="text-3xl font-bold text-gray-900">Современные технологии</h3>
-              <p className="text-lg text-gray-600 leading-relaxed">
-                Используем передовые решения для создания интеллектуальных чат-ботов с интуитивным интерфейсом и продвинутой логикой обработки запросов.
-              </p>
-            </div>
-          </div>
+
           
           <div className="max-w-4xl mx-auto space-y-12">
             <div className="flex items-start gap-6">
