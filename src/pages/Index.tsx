@@ -159,7 +159,7 @@ const Index = () => {
               <CardHeader className="text-center">
                 <CardTitle className="text-2xl mb-2">Бизнес</CardTitle>
                 <p className="text-gray-600 mb-4">
-                  Подписанный бот с воронками, чексканом ингот рассылке. Аirtable, CRM, рассылками.
+                  Продвинутый бот с воронками, чекзами, интегрированный с Airtable, CRM, рассылками.
                 </p>
                 <div className="text-3xl font-bold text-violet-600">от 60,000 ₽</div>
               </CardHeader>
@@ -174,7 +174,7 @@ const Index = () => {
               <CardHeader className="text-center">
                 <CardTitle className="text-2xl mb-2">Проект под ключ</CardTitle>
                 <p className="text-gray-600 mb-4">
-                  Индивидуальный проект: сложная логика, мультиканальность, подключения для технических задач, аналитика.
+                  Индивидуальный проект: сложная логика, мультивалютность, подключение для техзек, аналитика.
                 </p>
                 <div className="text-3xl font-bold text-violet-600">от 100,000 ₽</div>
               </CardHeader>
