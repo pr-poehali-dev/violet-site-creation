@@ -26,7 +26,7 @@ const Index = () => {
           <div className="bg-white rounded-2xl shadow-xl p-8 border border-violet-100 animate-scale-in hover:shadow-2xl transition-shadow duration-300">
             <div className="mb-6">
               <img 
-                src="/img/658ae1fd-0495-4834-8550-5a6877173dba.jpg" 
+                src="/img/ed4d54c1-e6a6-4a5c-b5d8-190dbcc9867f.jpg" 
                 alt="Современное рабочее место разработчика" 
                 className="w-full h-48 object-cover rounded-lg"
               />
@@ -38,7 +38,7 @@ const Index = () => {
               </div>
               <div className="flex items-center gap-3 hover:bg-violet-50 p-3 rounded-lg transition-colors duration-200">
                 <Icon name="Users" className="text-violet-600" size={24} />
-                <span className="text-lg font-medium">20+ внедренных проектов</span>
+                <span className="text-lg font-medium">200+ внедренных проектов</span>
               </div>
               <div className="flex items-center gap-3 hover:bg-violet-50 p-3 rounded-lg transition-colors duration-200">
                 <Icon name="MessageCircle" className="text-violet-600" size={24} />
@@ -60,12 +60,12 @@ const Index = () => {
             <div className="space-y-6">
               <h2 className="text-4xl font-bold text-gray-900">О компании</h2>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Мы — команда разработчиков автоматизаторов и маркетологов. За плечами более 20 успешно внедренных чат-ботов в разных сферах: от онлайн-школ до розничной торговли. Делаем проекты под ключ — от идеи до запуска. Не используем шаблоны, только работающие решения под ваш бизнес.
+                Мы — команда разработчиков автоматизаторов и маркетологов. За плечами более 200 успешно внедренных чат-ботов в разных сферах: от онлайн-школ до розничной торговли. Делаем проекты под ключ — от идеи до запуска. Не используем шаблоны, только работающие решения под ваш бизнес.
               </p>
             </div>
             <div>
               <img 
-                src="/img/12b5cc06-95a6-4b6d-a7df-e353bf4261b1.jpg" 
+                src="/img/098bda03-21c4-462c-aebb-c8e1336d3d8b.jpg" 
                 alt="Команда разработчиков за работой" 
                 className="w-full h-80 object-cover rounded-2xl shadow-lg"
               />
@@ -214,7 +214,7 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center max-w-6xl mx-auto mb-16">
             <div>
               <img 
-                src="/img/73b16dd7-a863-4711-9413-04e843a693ae.jpg" 
+                src="/img/bc6f01db-dae0-4db3-9cb5-2362e8cbadd8.jpg" 
                 alt="Интерфейс чат-бота" 
                 className="w-full h-80 object-cover rounded-2xl shadow-lg"
               />
