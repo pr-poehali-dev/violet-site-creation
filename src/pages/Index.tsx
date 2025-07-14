@@ -214,9 +214,9 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center max-w-6xl mx-auto mb-16">
             <div>
               <img 
-                src="/img/bc6f01db-dae0-4db3-9cb5-2362e8cbadd8.jpg" 
-                alt="Интерфейс чат-бота" 
-                className="w-full h-80 object-cover rounded-2xl shadow-lg"
+                src="/img/8ed759e2-3083-4eef-8bb1-9af01e2c5ae4.jpg" 
+                alt="Робот с телефоном для чата" 
+                className="w-full h-60 sm:h-72 md:h-80 object-contain rounded-2xl shadow-lg bg-gradient-to-br from-violet-50 to-blue-50 p-6"
               />
             </div>
             <div className="space-y-6">
